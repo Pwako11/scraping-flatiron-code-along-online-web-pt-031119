@@ -18,7 +18,8 @@ class Scraper
   end 
 end 
 
-Scraper.new.get_page\
+Scraper.new.get_page
+binding.pry 
   
 #     def print_courses
 #     self.make_courses
